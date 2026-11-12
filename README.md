@@ -20,4 +20,4 @@ La branche ne publie pas encore de CIA du jeu. Le menu CIA signale cette absence
 
 Compilation : devkitPro, libctru, citro2d, citro3d, curl et mbedTLS pour 3DS ; définir `NETWORK_PREFIX` vers les bibliothèques réseau, puis `./tools/build.sh`. Pour le CIA, utiliser `MAKEROM=/chemin/makerom ./tools/build.sh --cia`.
 
-Code adapté du lanceur PokéSurvivor 3DS de Dan Franza, sous licence PolyForm Noncommercial 1.0.0. Les licences des composants tiers sont dans `licenses/`. L'interface et l'icône ont été redessinées sans sprite Pokémon. L'écran titre emploie les ressources graphiques du port 3DS cité ci-dessus. Compilation 3DSX et CIA réussie ; fonctionnement sur console physique à vérifier.
+Code adapté du lanceur PokéSurvivor 3DS de Dan Franza, sous licence PolyForm Noncommercial 1.0.0. Les licences des composants tiers sont dans `licenses/`. L'écran titre emploie les ressources graphiques du port 3DS cité ci-dessus. Compilation 3DSX et CIA réussie ; fonctionnement sur console physique à vérifier.
